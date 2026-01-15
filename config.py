@@ -1,7 +1,3 @@
-import os
-
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-SESSION_STRING = os.getenv("SESSION_STRING")
-OWNER_ID = int(os.getenv("OWNER_ID"))
+API_ID = "YOUR_API_ID"
+API_HASH = "YOUR_API_HASH"
+SESSION_STRING = "YOUR_SESSION_STRING"
